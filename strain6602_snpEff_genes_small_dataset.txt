@@ -1,0 +1,12 @@
+# The following table is formatted as tab separated values. 																				
+#GeneName	GeneId	TranscriptId	BioType	variants_impact_HIGH	variants_impact_LOW	variants_impact_MODERATE	variants_impact_MODIFIER	variants_effect_downstream_gene_variant	variants_effect_initiator_codon_variant	variants_effect_intron_variant	variants_effect_missense_variant	variants_effect_splice_acceptor_variant	variants_effect_splice_donor_variant	variants_effect_splice_region_variant	variants_effect_start_lost	variants_effect_stop_gained	variants_effect_stop_lost	variants_effect_stop_retained_variant	variants_effect_synonymous_variant	variants_effect_upstream_gene_variant
+EXON_scaffold_1003_775_1035	149_g	149_t		0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+EXON_scaffold_100_14373_14432	128_g	128_t		0	0	0	23	5	0	5	0	0	0	0	0	0	0	0	0	13
+EXON_scaffold_100_16977_17800	129_g	129_t		0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0
+EXON_scaffold_100_21617_21681	130_g	130_t		0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+EXON_scaffold_100_24570_24738	131_g	131_t		0	0	0	20	20	0	0	0	0	0	0	0	0	0	0	0	0
+EXON_scaffold_100_26178_26370	132_g	132_t		0	0	0	26	26	0	0	0	0	0	0	0	0	0	0	0	0
+EXON_scaffold_100_29025_29140	133_g	133_t		0	4	5	18	0	0	0	5	0	0	0	0	0	0	0	4	18
+EXON_scaffold_100_29990_30001	134_g	134_t		0	3	3	22	5	0	6	3	0	0	1	0	0	0	0	2	12
+EXON_scaffold_100_32175_32619	135_g	135_t		0	0	1	28	3	0	0	1	0	0	0	0	0	0	0	0	25
+EXON_scaffold_100_34383_34523	136_g	136_t		0	0	1	25	1	0	0	1	0	0	0	0	0	0	0	0	24
